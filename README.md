@@ -8,5 +8,7 @@
 
 :open_book: Documentation:
 
+- :white_circle: https://www.regular-expressions.info/
+- :white_circle: https://regex101.com/
 - :white_circle: https://es.wikipedia.org/wiki/Expresi%C3%B3n_regular
 - :white_circle: https://cheatography.com/davechild/cheat-sheets/regular-expressions/
